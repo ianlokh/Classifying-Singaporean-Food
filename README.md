@@ -15,6 +15,8 @@ char\_kway\_teow vs mee\_goreng
 
 - the issue here is that both dishes have the thick noodles as its base and both are fried (dry with oily texture). In addition the ingredients are also similar (bean sprouts, vegetables and the occassional egg). I was expecting the CNN to differentiate the colour of the dishes. I believe better higher resolution images would allow the CNN to be better at differentiating between these two
 
+You can download the compiled model here: [food-model.hdf5](https://drive.google.com/open?id=1dSaL89lBhSuH2L5VwE0fZj9M5dD_OLyk) - Approx 190 MB
 
+Please place the hdf5 model file in the ./dataset folder before running the notebook.
 
 This code is written using TensorFlow 1.3, Keras 2.0.8 and Python 3.6
